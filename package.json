@@ -1,0 +1,39 @@
+{
+  "name": "user-service",
+  "version": "1.0.0",
+  "description": "API using Hapi and Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WittyDog/user-service.git"
+  },
+  "author": "Laurent Lasgorceix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WittyDog/user-service/issues"
+  },
+  "homepage": "https://github.com/WittyDog/user-service#readme",
+  "dependencies": {
+    "async": "2.1.4",
+    "blipp": "2.3.0",
+    "faker": "^3.1.0",
+    "good": "7.1.0",
+    "hapi": "^16.0.1",
+    "hapi-boom-decorators": "2.2.2",
+    "hapi-swagger": "^7.6.0",
+    "inert": "^4.1.0",
+    "iut-encrypt-lala": "^1.0.0",
+    "json-mongoose": "^0.3.3",
+    "k7": "^1.5.0",
+    "k7-mongoose": "^1.5.0",
+    "loadash": "0.0.1",
+    "lodash": "4.17.2",
+    "mailgen": "^2.0.2",
+    "nodemailer": "^3.0.0",
+    "socket.io-client": "^1.7.3",
+    "vision": "^4.1.1"
+  }
+}
