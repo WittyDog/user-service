@@ -1,2 +1,5 @@
-# crud_users_nodejs
-Basic C.R.U.D using Hapi and Mongoose
+# User Service
+
+API using Hapi and Mongoose (Users CRUD) 
+
+Created by Laurent Lasgorceix.
